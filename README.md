@@ -1,1 +1,7 @@
-# ai-advisor
+# AI Advisor
+
+AI Advisor is my firth Django-powered webapp that acts as a coversational advisor traiend on things like youtube videos, substack articles, and email newsletters with the purpose of accessing knowledge in these media that aren't easily accessible through traditional search.
+
+When I was doing research on something I wanted to buy, I was looking for opinions from people I knew. I knew for a fact that a youtuber I watched had talked about it at some point, but google, youtube, and AI searches didn't turn up the video I was looking for since it was just a tangential mention. I found a tool called [Filmot](https://filmot.com/) that let me search Youtube captions and subtitles which was a step int eh right direction, but once I found the video I had to sift through the 20 minute runtime finding the 30 seconds of content I was searching for.
+
+It got me thinking that traditional search methods and even AI is not set up to access all of the information in these "alternative" sources that are quickly becoming mainstream. People who have Youtube chanlles and newsletters and blogs are building information repositories taht are flying under the radar. And how better to access the information than by asking the sources directly? By leveraging Retrieval-Augmented-Generation, I aim to turnt hese information sources into AI advisors that can be asked specific questions. 
